@@ -1,6 +1,8 @@
 # Stonecap Mountain
 The Battle for Stonecap Mountain, a turn-based strategy combat game
 
+This game is now downloadable from Itch.io [Here](https://greisee32.itch.io/stonecap-mountain)
+
 Resources:
 
 Unity- the main software the game is being made in. I chose this because I have worked with it quite a bit on smaller personal projects, and I’ve found C# to be an easy language to pick up from my experience in Java and Javascript, specifically. Unity is one of the 2 largest publicly available game engines used in industry, making it easily one of the most popular.
